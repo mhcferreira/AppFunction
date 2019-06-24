@@ -1,5 +1,7 @@
 {
   "name": "AppFunction",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
